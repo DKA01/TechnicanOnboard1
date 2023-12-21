@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/foot1.JPG";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -37,16 +37,16 @@ const projectList = [
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Data Visualization for beginners!",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Power BI is the most popular and in-demand visualization skill these days. In this succinct and practical video, learn how to get started and use Power BI to create an impressive visualizations.",
+    url: "https://www.youtube.com/watch?v=9tF1IrfLflg&t=40s",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created to show what I did using data science knowledge. Includes my past projects and designs.",
+    url: "https://dk01git.github.io/",
   },
   {
     title: "GitHub Codespaces and github.dev",
